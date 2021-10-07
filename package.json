@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "this is my readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varuniisabel",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
